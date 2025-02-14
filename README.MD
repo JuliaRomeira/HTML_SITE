@@ -29,4 +29,4 @@ Durante a criação deste projeto, aprendi a:
 Este é apenas o começo da minha jornada no desenvolvimento web! ✨
 
 ## 🔗 Referências
-- [DIO - Digital Innovation One](https://www.dio.me/)
+- [DIO - Digital Innovation One](https://www.dio.me/).
