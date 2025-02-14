@@ -30,4 +30,3 @@ Este é apenas o começo da minha jornada no desenvolvimento web! ✨
 
 ## 🔗 Referências
 - [DIO - Digital Innovation One](https://www.dio.me/)
-
